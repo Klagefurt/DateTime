@@ -1,1 +1,1 @@
-# ConsoleApp1
+Это аналог класса DateTime
